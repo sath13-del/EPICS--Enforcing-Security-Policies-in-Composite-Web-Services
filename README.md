@@ -2,6 +2,7 @@
 ## A Framework for Enforcing Security Policies in Composite Web Services
 
 📘 Abstract:
+
 With the increasing adoption of Service-Oriented Architecture (SOA), composite web services have become common in modern distributed systems. However, enforcing consistent security policies across multiple integrated services remains a significant challenge. EPICS (Enforcing Policies in Composite Services) is a Java-based web application framework designed to enforce security and access control policies in composite web services. The framework ensures that each service interaction complies with predefined security rules, thereby enhancing system reliability, confidentiality, and integrity.
 This project demonstrates the practical application of policy enforcement using Java Web technologies and is developed as an academic project.
 
