@@ -5,7 +5,7 @@
 With the increasing adoption of Service-Oriented Architecture (SOA), composite web services have become common in modern distributed systems. However, enforcing consistent security policies across multiple integrated services remains a significant challenge. EPICS (Enforcing Policies in Composite Services) is a Java-based web application framework designed to enforce security and access control policies in composite web services. The framework ensures that each service interaction complies with predefined security rules, thereby enhancing system reliability, confidentiality, and integrity.
 This project demonstrates the practical application of policy enforcement using Java Web technologies and is developed as an academic project.
 
-🎯 Project Objectives:
+#🎯 Project Objectives:
 
 1. To design and implement a framework for enforcing security policies in composite web services.
    
@@ -15,7 +15,7 @@ This project demonstrates the practical application of policy enforcement using 
  
 4. To study security challenges in distributed web services.
 
-🧠 Academic Relevance
+#🧠 Academic Relevance
 This project aligns with the following academic concepts:
 
 1.Service-Oriented Architecture (SOA).
@@ -28,7 +28,8 @@ This project aligns with the following academic concepts:
 
 5.Distributed Systems Security.
 
-🛠️ Technologies Used:
+
+#🛠️ Technologies Used:
 
 1.Java (JSP & Servlets)
 
@@ -40,7 +41,8 @@ This project aligns with the following academic concepts:
 
 5.HTML and CSS.
 
-📂 Project Structure:
+
+#📂 Project Structure:
 
 EPICS-Enforcing security policies in compsite we services/
 │
@@ -50,8 +52,8 @@ EPICS-Enforcing security policies in compsite we services/
 ├── .gitignore           # Ignored build and generated files
 └── README.md            # Project documentation
 
-⚙️ System Requirements
-Software requirements:
+#⚙️ System Requirements:
+##Software requirements:
 
 1.Java JDK 8 or above.
 
@@ -59,13 +61,14 @@ Software requirements:
 
 3.Apache Tomcat or GlassFish.
 
-Hardware requirements:
+#Hardware requirements:
 
 1.Minimum 4 GB RAM.
 
 2.Any modern processor.
 
-🚀 Setup & Installation:
+
+#🚀 Setup & Installation:
 
 1.Clone the repository:
 git clone https://github.com/yourusername/EPICS-Enforcing-Security-Policies-in-Composite-Web-Services.git
@@ -80,7 +83,8 @@ git clone https://github.com/yourusername/EPICS-Enforcing-Security-Policies-in-C
 
 6.Build and run the project.
 
-▶️ How to Run:
+
+#▶️ How to Run:
 
 1.Start the application server.
 
@@ -89,7 +93,8 @@ git clone https://github.com/yourusername/EPICS-Enforcing-Security-Policies-in-C
 3.Access the application at:
 http://localhost:8080/ProjectName
 
-🔐 Key Features
+
+3🔐 Key Features
 1.Policy-based security enforcement.
 
 2.Role-based authorization.
@@ -98,7 +103,8 @@ http://localhost:8080/ProjectName
 
 4.Modular and extensible framework.
 
-📌 Use Cases:
+
+#📌 Use Cases:
 
 1.Academic and research purposes.
 
@@ -106,17 +112,20 @@ http://localhost:8080/ProjectName
 
 3.Understanding security enforcement in SOA-based systems.
 
-👨‍💻 Author:
+
+#👨‍💻 Author:
 Sathvika Kasam.
 
 Department of Information Technology.
 
-📄 License:
+
+#📄 License:
 This project is intended for educational use only.
 
 It may be freely modified for learning and academic purposes.
 
-⭐ Acknowledgements:
+
+#⭐ Acknowledgements:
 
 1.NetBeans IDE.
 
@@ -124,7 +133,8 @@ It may be freely modified for learning and academic purposes.
 
 3.Academic resources on web service security.
 
-📈 Future Enhancements:
+
+#📈 Future Enhancements:
 
 1.REST-based service integration.
 
