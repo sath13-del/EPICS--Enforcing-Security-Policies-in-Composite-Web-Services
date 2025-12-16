@@ -1,0 +1,11 @@
+.png, #logo img, #social-icons, #social-icons img, #image-slider .prev img, #image-slider .next img, .white-box .box-title .icon img, .white-box .box-title .subtitle img {
+	position:relative;
+	-pie-png-fix:true;
+	behavior:url("PIE.htc");
+}
+.column-1-3, .column-2-3 {
+	margin:0 5px;
+}
+.white-box .box-content {
+	overflow:hidden;
+}
