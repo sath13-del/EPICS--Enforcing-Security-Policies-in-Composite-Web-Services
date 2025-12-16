@@ -120,7 +120,7 @@ Department of Information Technology.
 
 
 📄 License:
-This project is intended for educational use only. |
+This project is intended for educational use only.
 It may be freely modified for learning and academic purposes.
 
 
