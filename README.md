@@ -13,18 +13,18 @@ This project demonstrates the practical application of policy enforcement using 
 
 🧠 Academic Relevance
 This project aligns with the following academic concepts:
--Service-Oriented Architecture (SOA).
--Composite Web Services.
--Security Policies and Access Control.
--Java Web Technologies (JSP & Servlets).
--Distributed Systems Security.
+1.Service-Oriented Architecture (SOA).
+2.Composite Web Services.
+3.Security Policies and Access Control.
+4.Java Web Technologies (JSP & Servlets).
+5.Distributed Systems Security.
 
 🛠️ Technologies Used
--Java (JSP & Servlets)
--Java EE.
--NetBeans IDE.
--Apache Tomcat / GlassFish Server.
--HTML and CSS.
+1.Java (JSP & Servlets)
+2.Java EE.
+3.NetBeans IDE.
+4.Apache Tomcat / GlassFish Server.
+5.HTML and CSS.
 
 📂 Project Structure
 EPICS-Enforcing security policies in compsite we services/
@@ -37,13 +37,13 @@ EPICS-Enforcing security policies in compsite we services/
 
 ⚙️ System Requirements
 Software requirements:
--Java JDK 8 or above.
--NetBeans IDE.
--Apache Tomcat or GlassFish.
+1.Java JDK 8 or above.
+2.NetBeans IDE.
+3.Apache Tomcat or GlassFish.
 
 Hardware requirements:
--Minimum 4 GB RAM.
--Any modern processor.
+1.Minimum 4 GB RAM.
+2.Any modern processor.
 
 🚀 Setup & Installation
 1.Clone the repository:
@@ -61,33 +61,33 @@ git clone https://github.com/yourusername/EPICS-Enforcing-Security-Policies-in-C
 http://localhost:8080/ProjectName
 
 🔐 Key Features
-*Policy-based security enforcement.
-*Role-based authorization.
-*Secure service composition.
-*Modular and extensible framework.
+1.Policy-based security enforcement.
+2.Role-based authorization.
+3.Secure service composition.
+4.Modular and extensible framework.
 
 📌 Use Cases
 1.Academic and research purposes.
 2.Learning Java Web Application Development.
 3.Understanding security enforcement in SOA-based systems.
 
-👨‍💻 Author
+👨‍💻 Author:
 Sathvika Kasam.
 Department of Information Technology.
 
-📄 License
+📄 License:
 This project is intended for educational use only.
 It may be freely modified for learning and academic purposes.
 
-⭐ Acknowledgements
--NetBeans IDE.
--Java EE Documentation.
--Academic resources on web service security.
+⭐ Acknowledgements:
+1.NetBeans IDE.
+2.Java EE Documentation.
+3.Academic resources on web service security.
 
 📈 Future Enhancements
->REST-based service integration.
->Advanced policy management.
->Database-backed authentication and authorization.
->Improved scalability and performance.
+1.REST-based service integration.
+2.Advanced policy management.
+3.Database-backed authentication and authorization.
+4.Improved scalability and performance.
 
 
