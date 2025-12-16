@@ -94,7 +94,8 @@ git clone https://github.com/yourusername/EPICS-Enforcing-Security-Policies-in-C
 http://localhost:8080/ProjectName
 
 
-3🔐 Key Features
+🔐 Key Features:
+
 1.Policy-based security enforcement.
 
 2.Role-based authorization.
@@ -114,14 +115,12 @@ http://localhost:8080/ProjectName
 
 
 👨‍💻 Author:
-Sathvika Kasam.
-
+Sathvika Kasam. |
 Department of Information Technology.
 
 
 📄 License:
-This project is intended for educational use only.
-
+This project is intended for educational use only. |
 It may be freely modified for learning and academic purposes.
 
 
