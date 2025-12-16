@@ -16,9 +16,9 @@ This project demonstrates the practical application of policy enforcement using 
  
 4. To study security challenges in distributed web services.
 
-🧠 Academic Relevance
+🧠 Academic Relevance:
 
-This project aligns with the following academic concepts:
+This project aligns with the following academic concepts-
 
 1.Service-Oriented Architecture (SOA).
 
